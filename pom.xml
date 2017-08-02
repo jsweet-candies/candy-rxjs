@@ -52,7 +52,7 @@
 			<plugin>
 				<groupId>org.jsweet</groupId>
 				<artifactId>jsweet-maven-plugin</artifactId>
-				<version>1.2.0-20170726</version>
+				<version>1.2.0-rc1</version>
 				<configuration>
 					<verbose>true</verbose>
 					<definitions>true</definitions>
